@@ -1,0 +1,12 @@
+{
+  "name": "Patient Desk",
+  "short_name": "Patient Desk",
+  "description": "WhatsApp-based patient booking and reminder desk",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F6FA",
+  "theme_color": "#2563EB",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
